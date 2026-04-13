@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TOMATO - Food Ordering Website
 
 This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
@@ -117,3 +118,6 @@ Start the Backend server
 * [Multer](https://www.npmjs.com/package/multer)
 
 
+=======
+# Food-order-website
+>>>>>>> 9fab253463b4cc1664b5812fb728465b297ed5c2
